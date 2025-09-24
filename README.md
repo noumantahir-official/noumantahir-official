@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Nouman
-- 👀 I’m interested in Web Development, Startups and putting technology to solve problems. 
-- 🌱 I’m currently learning Cloud (Azure)
-- 💞️ I’m looking to collaborate on .NET Applications. 
-- 📫 Best way to reach me is through my email noumantahir.official@gmail.com
+**Go/Python Full Stack Engineer** — I design and ship production-grade APIs, services, and tooling.
 
-<!---
-noumantahir-official/noumantahir-official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Focus: concurrency & HTTP (Go/chi|gin), Postgres/sqlc, Redis, Docker/CI, testing & OTEL; plus Python for services, data tooling, and automation.
+
+📫 noumantahir.work@gmail.com · 📅 [Book a chat](https://calendly.com/noumantahir-work/30min)
